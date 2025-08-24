@@ -26,7 +26,7 @@ export default {
           200: '#bfdbfe',
           300: '#93c5fd',
           400: '#60a5fa',
-          500: '#4f7df3',
+          500: '#3b82f6', // Subtle Blue
           600: '#2563eb',
           700: '#1d4ed8',
           800: '#1e40af',
@@ -34,8 +34,8 @@ export default {
         },
         sunset: {
           orange: '#f97316',
-          pink: '#4f7df3',
-          purple: '#4f7df3',
+          pink: '#10b981', // Green
+          purple: '#3b82f6', // Blue
           yellow: '#fbbf24',
           red: '#ef4444',
         }
